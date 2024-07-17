@@ -53,4 +53,4 @@ This project is licensed under the MIT License (see LICENSE file for details).
 
 # Warning
 
-## This script is intended for educational purposes only. It is designed to help you learn about scripting concepts and explore programming possibilities. It is not intended for production use or any situation where unintended consequences could have a negative impact or any legal issues.  The author is not responsible for any damages or hazards caused by its use. And, know about local laws.
+## This script is intended for educational purposes only. It is designed to help you learn about scripting concepts and explore programming possibilities. It is not intended for production use or any situation where unintended consequences could have a negative impact or any legal issues.  The author is not responsible for any damages or hazards caused by its use. And know about local laws.
