@@ -22,7 +22,7 @@ This Python script extracts text content from EPUB files located within a specif
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/akumathedyn123/python-epub_extractor-epub2txt.git
+   git clone https://github.com/akumathedyn123/epub2text.git
    ```
 
 2. **Install dependencies:**
@@ -39,7 +39,7 @@ This Python script extracts text content from EPUB files located within a specif
 4. **Run the script:**
 
    ```bash
-   python epub_extractor-epub2txt.py
+   python main.py
    ```
 
 ### Contributing ###
