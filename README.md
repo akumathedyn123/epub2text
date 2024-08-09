@@ -1,6 +1,6 @@
 
 
-## epub2txt EPUB Text Extractor ##
+## epub2txt EPUB Text Extractor ## 
 
 This Python script extracts text content from EPUB files located within a specified folder.
 
